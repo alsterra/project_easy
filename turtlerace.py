@@ -68,3 +68,4 @@ colors = COLORS[:racers]
 
 winner = race(colors)
 print(f'The winner is {winner}')
+time.sleep(5)
